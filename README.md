@@ -1,4 +1,4 @@
-# SPL-Lab-Project
+# Menu-driven program
 Menu-driven program in C is a type of program in which various options are provided to the user and some functionality is provided based on these options. These programs are used to provide a simple yet effective user interface and deliver the requested functionalities to the user. This article provides an overview of menu-driven programs in C.
 
 In this article, we will learn about the menu-driven programs in the C programming language.
